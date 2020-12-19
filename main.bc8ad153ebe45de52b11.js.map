@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"iKAAA,6B","file":"main.bc8ad153ebe45de52b11.js","sourcesContent":["import './main.css';\r\n\r\nimport './menu.json';"],"sourceRoot":""}
